@@ -64,7 +64,3 @@ The application uses the `useEffect` hook to fetch data when the component mount
 3. Success state: Renders the user data when successfully fetched
 
 The `DataFetcher` component accepts a `userId` prop that determines which user's data to fetch. When this prop changes, the component automatically fetches the new user's data.
-
-## Demo
-
-You can see a live demo of this project at [https://your-demo-url.vercel.app](https://your-demo-url.vercel.app) 
